@@ -4,6 +4,14 @@ Advanced Single-Node Security Information & Event Management System
 ## Overview
 Smart SIEM is a Python-based Security Information & Event Management (SIEM) system designed to monitor, parse, and detect security events from Linux system logs. It stores alerts in a MySQL database and provides a Flask-based dashboard for real-time visualization and monitoring.
 
+## Dashboard Preview
+
+### Login Screen
+![Login Screen](assets/login.png)
+
+### Dashboard
+![Dashboard](assets/dashboard.png)
+
 ## Features
 - Incremental log ingestion with state tracking
 - Regex-based structured log parsing
