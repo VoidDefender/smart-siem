@@ -12,6 +12,13 @@ Smart SIEM is a Python-based Security Information & Event Management (SIEM) syst
 ### Dashboard
 ![Dashboard](assets/dashboard.png)
 
+## Architecture Diagram
+
+<p align="center">
+  <img src="assets/architecture.png" alt="Smart SIEM Architecture" width="900"/>
+</p>
+
+
 ## Features
 - Incremental log ingestion with state tracking
 - Regex-based structured log parsing
